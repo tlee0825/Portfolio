@@ -15,7 +15,7 @@
   navbar {
     position: relative;
     float: right;
-    color: lightcoral
+    color: lightcoral;
   }
 
   h2 {
@@ -23,13 +23,16 @@
   }
 
   h3 {
-    float: left;
+    float: right;
+    text-emphasis: bold;
+    color: lightcyan;
+
   }
 
   #smile {
     height: 250px;
     width: 150px;
-    float: right;
+    float: left;
     display: block;
     width: 50%;
   }
