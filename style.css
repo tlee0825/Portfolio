@@ -22,6 +22,10 @@
     float: left;
   }
 
+  h3 {
+    float: left;
+  }
+
   #smile {
     height: 150px;
     width: 150px;
